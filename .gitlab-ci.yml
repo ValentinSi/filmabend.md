@@ -1,4 +1,4 @@
-image: pandoc/latex
+image: marcelhuberfoo/pandoc
 
 build:
   script:
