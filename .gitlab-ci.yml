@@ -1,0 +1,10 @@
+image: pandoc/latex
+
+build:
+  script:
+    - pandoc *.md -o saferscience.pdf 
+    - pandoc *.md -o saferscience.odt
+  artifacts:
+    paths:
+      - "*.pdf"
+      - "*.odt"
