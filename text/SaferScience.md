@@ -94,7 +94,7 @@ Eine Beteiligung auf Gitlab ist ebenfalls möglich: https://gitlab.com/dr-eberle
 
 ## Anonym im Netz: Tor-Netzwerk und Darknet
 
-### Was ist das Tor-Netzwerk? Wie funktioniert es?Wie nutze ich es?
+### Was ist das Tor-Netzwerk? Wie funktioniert es? Wie nutze ich es?
 
 ### Darknet: Was? Wie? Wo?
 
