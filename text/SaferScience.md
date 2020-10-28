@@ -5,6 +5,8 @@ typora-copy-images-to: ../images
 
 # SaferScience - Digitale Selbstverteidigung in der Wissenschaft
 
+[[_TOC_]]
+
 ## Vorwort
 
 Die vorliegende Handreichung soll eine Hilfestellung sein, um sich in einer zunehmend digitalisierten Welt sicher zu bewegen. Dabei werden verschiedene Themen angesprochen, beginnend mit sicherem Internet-Browsen, über verschlüsselte E-Mails hin zu sicheren Backuplösungen und vielen mehr.
@@ -42,7 +44,7 @@ Eine Beteiligung auf Gitlab ist ebenfalls möglich: https://gitlab.com/dr-eberle
 
 ### Client statt Browser
 
-### Verschlüsselung mit PGP
+### Verschlüsselung mit PGP (Thunderbird 68 mit Enigmail vs. Thunderbird 78 mit OpenPGP)
 
 ## Datensicherheit I -  Backupstrategien
 
@@ -81,6 +83,8 @@ Eine Beteiligung auf Gitlab ist ebenfalls möglich: https://gitlab.com/dr-eberle
 #### Nextcloud, Seafile, Owncloud...
 
 ### Cryptomator und Co: Verschlüsselung für die Cloud
+
+### Wissenschaftliche Daten in der Cloud: Vorschriften, Best-Practices, universitäre Cloud-Anbieter
 
 ## Sichere Kommunikation II: Messenger
 
