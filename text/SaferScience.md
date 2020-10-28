@@ -14,9 +14,7 @@ Die Handreichung wurde von erfahrenen Anwender*innen verfasst, nicht von Informa
 Die Inhalte wurden stets nach bestem Wissen und Gewissen produziert. Jedoch können wir keine Garantie für die Richtigkeit übernehmen.
 
 Anregungen, Feedback und Ergänzungen können gerne direkt mitgeteilt werden: info@eberle-zentrum.uni-tuebingen.de 
-Eine Beteiligung auf Gitlab ist ebenfalls möglich: https://gitlab.com/davidki/saferscience
-
-[TOC]
+Eine Beteiligung auf Gitlab ist ebenfalls möglich: https://gitlab.com/dr-eberle-zentrum/saferscience
 
 ## Kollaboratives Schreiben - Wie diese Anleitung entsteht
 
