@@ -52,6 +52,8 @@ Eine Beteiligung auf Gitlab ist ebenfalls möglich: https://gitlab.com/davidki/s
 
 ### Warum kein Windows 10?
 
+#### Windows 10 Tweaks: Dateiendungen, Datenschutzeinstellungen
+
 ### Linux -  Wie gehe ich den Umstieg an?
 
 ### Portable Betriebssysteme
@@ -96,7 +98,7 @@ Eine Beteiligung auf Gitlab ist ebenfalls möglich: https://gitlab.com/davidki/s
 
 ## Anonym im Netz: Tor-Netzwerk und Darknet
 
-### Was ist das Tor-Netzwerk? Wie funktioniert es?Wie nutze ich es?
+### Was ist das Tor-Netzwerk? Wie funktioniert es? Wie nutze ich es?
 
 ### Darknet: Was? Wie? Wo?
 
@@ -129,6 +131,10 @@ z.B: https://accueil.framacalc.org/de/ und https://framapad.org/de/
 #### onlyOffice: Synology, Nextcloud
 
 #### collobora office
+
+#### Overleaf
+
+
 
 
 
