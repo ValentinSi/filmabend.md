@@ -86,7 +86,7 @@ Eine Beteiligung auf Gitlab ist ebenfalls möglich: https://gitlab.com/dr-eberle
 
 ### Verschlüsselungsmethoden
 
-## Sichere Kommunikation III: Videkonferenzen
+## Sichere Kommunikation III: Videokonferenzen
 
 ### Anbieter
 
