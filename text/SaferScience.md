@@ -130,31 +130,7 @@ z.B: https://accueil.framacalc.org/de/ und https://framapad.org/de/
 
 #### collobora office
 
-#### Overleaf
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 
+#### Overleaf 
 
 
 
