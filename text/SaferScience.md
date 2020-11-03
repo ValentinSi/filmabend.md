@@ -5,6 +5,8 @@ typora-copy-images-to: ../images
 
 # SaferScience - Digitale Selbstverteidigung in der Wissenschaft
 
+## Inhaltsverzeichnis
+
 [[_TOC_]]
 
 ## Vorwort
@@ -24,9 +26,15 @@ Autor*innen: David Kirschenheuter ([@davidki](https://gitlab.com/davidki))
 
 ### Markdown
 
+
+
 ### Versionskontrolle und gemeinsames Schreiben via Github
 
+
+
 ### Exportieren mit Pandoc
+
+
 
 ## Open-Source? Closed Source? Freeware? Freie Software? Lizenzen für digitale Werke
 
