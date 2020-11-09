@@ -1,0 +1,39 @@
+---
+title: |
+  Digitale Selbstverteidigung. 
+subtitle: |
+  Kollaboratives Schreiben umfangreicher Dokumente
+author:
+  - David Kirschenheuter
+extratitle: false
+lang: de-de
+colorlinks: true
+links-as-notes: false
+papersize: a4
+fontsize: 12pt
+fontfamily: garamond-libre
+numbersections: true
+toc-depth: 3
+lof: false
+classoption:
+  - oneside
+  - headings=small
+toc: true
+geometry:
+  - top=2cm
+  - right=2cm
+  - left=2cm
+  - bottom=2cm
+chapters: false
+documentclass: book
+linestretch: 1.2
+
+# Bibliografie
+bibliography: literatur.bib
+csl: digital-scholarship-in-the-humanities.csl
+
+# Zusätzliche LaTeX-Pakete
+header-includes: |
+  \usepackage{graphicx}
+  \usepackage{csquotes}
+---
