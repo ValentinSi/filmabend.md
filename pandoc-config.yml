@@ -11,7 +11,7 @@ colorlinks: true
 links-as-notes: false
 papersize: a4
 fontsize: 12pt
-fontfamily: garamond-libre
+fontfamily: garamondlibre
 numbersections: true
 toc-depth: 3
 lof: false
