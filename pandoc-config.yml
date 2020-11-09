@@ -36,4 +36,6 @@ csl: digital-scholarship-in-the-humanities.csl
 header-includes: |
   \usepackage{graphicx}
   \usepackage{csquotes}
+  \usepackage{fontspec}
+  \setmainfont{Garamond Libre}
 ---
