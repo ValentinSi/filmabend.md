@@ -2,7 +2,7 @@
 title: |
   Digitale Selbstverteidigung. 
 subtitle: |
-  Kollaboratives Schreiben umfangreicher Dokumente
+  SaferScience in Zeiten der Digitalisierung
 author:
   - David Kirschenheuter
 extratitle: false
@@ -11,7 +11,7 @@ colorlinks: true
 links-as-notes: false
 papersize: a4
 fontsize: 12pt
-fontfamily: garamond-libre
+fontfamily: garamondlibre
 numbersections: true
 toc-depth: 3
 lof: false
@@ -36,6 +36,4 @@ csl: digital-scholarship-in-the-humanities.csl
 header-includes: |
   \usepackage{graphicx}
   \usepackage{csquotes}
-  \usepackage{fontspec}
-  \setmainfont{Garamond Libre}
 ---
