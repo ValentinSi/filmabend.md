@@ -24,8 +24,7 @@ Eine Beteiligung auf Gitlab ist ebenfalls möglich: https://gitlab.com/dr-eberle
 
 ## Kollaboratives Schreiben - Wie diese Anleitung entsteht
 
-Autor*innen: David Kirschenheuter `([@davidki](https://gitlab.com/davidki))`{=markdown}
-`(https://gitlab.com/davidki)`{=latex}
+Autor*innen: David Kirschenheuter `(https://gitlab.com/davidki)`{=latex}
 
 ### Markdown
 
