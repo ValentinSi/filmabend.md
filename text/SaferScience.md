@@ -5,9 +5,11 @@ typora-copy-images-to: ../images
 
 # SaferScience - Digitale Selbstverteidigung in der Wissenschaft
 
+```{=markdown}
 ## Inhaltsverzeichnis
 
 [[_TOC_]]
+```
 
 ## Vorwort
 
@@ -22,7 +24,8 @@ Eine Beteiligung auf Gitlab ist ebenfalls möglich: https://gitlab.com/dr-eberle
 
 ## Kollaboratives Schreiben - Wie diese Anleitung entsteht
 
-Autor*innen: David Kirschenheuter ([@davidki](https://gitlab.com/davidki))
+Autor*innen: David Kirschenheuter `([@davidki](https://gitlab.com/davidki))`{=markdown}
+`(https://gitlab.com/davidki)`{=latex}
 
 ### Markdown
 
