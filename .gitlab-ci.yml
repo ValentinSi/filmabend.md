@@ -13,21 +13,16 @@ build:
     changes:
       - text/*
 
-variables:
-  JEKYLL_ENV: production
-  LC_ALL: C.UTF-8
-
-pages:  
-  
-  image: ruby:2.6
-  stage: deploy
+pages:
+  images: 2.6
   script:
-    - gem install bundler
-    - bundle install
-    - bundle exec jekyll build -d public
+  - gem install jekyll
+  - jekyll build -d public/
   artifacts:
     paths:
-      - public
+    - public
+  only:
+  - master
   only:
     refs:
       - branches
