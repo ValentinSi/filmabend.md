@@ -7,4 +7,9 @@ build:
   artifacts:
     paths:
       - "*.pdf"
-      - "*.md"      
+      - "*.md"
+  only:
+    refs:
+      - branches
+    changes:
+      - text/*
