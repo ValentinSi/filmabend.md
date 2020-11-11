@@ -23,8 +23,3 @@ pages:
     - public
   only:
   - master
-  only:
-    refs:
-      - branches
-    changes:
-      - text/*
