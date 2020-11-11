@@ -22,7 +22,7 @@ pages:
   artifacts:
     paths:
       - public
-   only:
+  only:
     refs:
       - branches
     changes:
