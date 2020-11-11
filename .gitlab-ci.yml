@@ -1,5 +1,6 @@
-build:
-  image: marcelhuberfoo/pandoc
+image: marcelhuberfoo/pandoc
+
+build:  
   script:
     - pandoc text/*.md -o saferscience.pdf --filter pandoc-citeproc pandoc-config.yml
     - pandoc text/*.md -o saferscience.md --filter pandoc-citeproc pandoc-config.yml    
