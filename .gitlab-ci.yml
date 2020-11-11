@@ -2,25 +2,12 @@ build:
   image: marcelhuberfoo/pandoc
   script:
     - pandoc text/*.md -o saferscience.pdf --filter pandoc-citeproc pandoc-config.yml
-    - pandoc text/*.md -o saferscience.html --filter pandoc-citeproc pandoc-config.yml    
+    - pandoc text/*.md -o saferscience.html --filter pandoc-citeproc pandoc-config.yml
+    - cp saferscience.html public/ 
   artifacts:
     paths:
       - "*.pdf"
       - "*.html"
-  only:
-    refs:
-      - branches
-    changes:
-      - text/*
-
-pages:
-  image: ruby:2.6
-  script:
-  - gem install jekyll
-  - jekyll build -d public/
-  artifacts:
-    paths:
-    - public
   only:
     refs:
       - branches
