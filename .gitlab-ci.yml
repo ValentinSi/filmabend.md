@@ -22,3 +22,8 @@ pages:
   artifacts:
     paths:
       - public
+   only:
+    refs:
+      - branches
+    changes:
+      - public/*
