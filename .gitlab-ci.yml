@@ -1,6 +1,5 @@
-image: marcelhuberfoo/pandoc
-
 build:
+  image: marcelhuberfoo/pandoc
   script:
     - pandoc text/*.md -o saferscience.pdf --filter pandoc-citeproc pandoc-config.yml
     - pandoc text/*.md -o saferscience.md --filter pandoc-citeproc pandoc-config.yml    
@@ -8,6 +7,28 @@ build:
     paths:
       - "*.pdf"
       - "*.md"
+  only:
+    refs:
+      - branches
+    changes:
+      - text/*
+
+variables:
+  JEKYLL_ENV: production
+  LC_ALL: C.UTF-8
+
+before_script:
+  - gem install bundler
+  - bundle install
+
+pages:
+  image: ruby:2.6
+  stage: deploy
+  script:
+    - bundle exec jekyll build -d public
+  artifacts:
+    paths:
+      - public
   only:
     refs:
       - branches
