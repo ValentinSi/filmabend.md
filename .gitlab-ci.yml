@@ -17,13 +17,13 @@ variables:
   JEKYLL_ENV: production
   LC_ALL: C.UTF-8
 
-pages:
-  before_script:
-  - gem install bundler
-  - bundle install
+pages:  
+  
   image: ruby:2.6
   stage: deploy
   script:
+    - gem install bundler
+    - bundle install
     - bundle exec jekyll build -d public
   artifacts:
     paths:
