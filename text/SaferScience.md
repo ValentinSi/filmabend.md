@@ -106,7 +106,7 @@ Autor*innen:
 
 ### Bluetooth, WLAN und andere Einfallstore
 
-<!--Kapitel evtl. weg lassen, da großes und teils spezifisches Themenfeld und nicht explizit für Wissenschaft -->
+<!--Kapitel evtl. weg lassen, da großes und teils sehr spezifisches Themenfeld und nicht explizit für Wissenschaft -->
 
 ## Cloud - Daten ständig verfügbar und dennoch sicher
 
