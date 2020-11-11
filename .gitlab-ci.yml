@@ -14,7 +14,7 @@ build:
       - text/*
 
 pages:
-  images: ruby 2.6
+  image: ruby 2.6
   script:
   - gem install jekyll
   - jekyll build -d public/
