@@ -1,0 +1,60 @@
+---
+title: "Testdatei"
+author: "Me"
+date: "13 11 2020"
+
+output:
+  md_document:
+    variant: markdown_github
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+### little helpers
+
+#### Hilfreiche Videoreihe: Erklärung R-Markdown in Youtube
++ Übersicht <https://www.youtube.com/watch?v=F-6iU1EHoc0>
++ Formatierung von Text <https://www.youtube.com/watch?v=K7H1YqeAPzs>
++ ...
+
+### Cheatsheets
++ Reference Guide <https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf>
++ Markdown <https://raw.githubusercontent.com/rstudio/cheatsheets/master/rmarkdown-2.0.pdf>
+
+### hilfreiche Mardown-Formatierungen#
+# Überschrift Ebene 1
+## Überschrift Ebene 2
+### Überschrift Ebene 3
+
+Normaler Text, *kursiv* und **fett**
+
+Fußnotetexte dann nach so.[^1]
+
+[^1]: Das hier ist dann die zugehörige Fußnote
+
+*Erster Bullepoint
++ Unterpunkt
+*Zweiter Bulletpint
+
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
