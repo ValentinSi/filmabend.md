@@ -1,5 +1,5 @@
 # Filmabend-Organisation
-![Filmabend](https://image.freepik.com/vektoren-kostenlos/klicken-sie-auf-movie-logo-vector_18099-258.jpg)
+![Filmabend](https://image.freepik.com/vektoren-kostenlos/kino-logo_23-2147503279.jpg?1)
 
 ## Filmauswahl
 
