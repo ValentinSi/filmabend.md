@@ -14,3 +14,7 @@
 
 ## Technik
 
+- Beamer
+- Leinwand
+- Laptop
+- HDMI-Kabel
